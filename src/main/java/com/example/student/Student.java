@@ -1,4 +1,4 @@
-package cruddemo.queryingmodifyingentities.entity;
+package com.example.student;
 //map this class to a db table
 
 
